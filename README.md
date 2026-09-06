@@ -5,6 +5,7 @@ An AI powered job search assistant that helps users find relevant job opportunit
 The assistant uses an AI agent powered by Kimi (kimi-k2.6) to search for jobs, read job descriptions, and determine how well each opportunity matches the user's profile.
 
 Features:
+
 AI-powered job search
 Searches the web for relevant job opportunities.
 Uses Olostep Search to discover job listings.
